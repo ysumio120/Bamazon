@@ -1,6 +1,6 @@
 # Bamazon
 
-To run the script, you will need to install the 'mysql' and 'inquirer'packages
+To run the script, you will need to install the 'mysql' and 'inquirer' packages
 ```
 $ npm install mysql --save 
 ```
@@ -14,7 +14,7 @@ To begin the program run this command,
 $ node BamazonCustomer.js
 ```
 
-If you want to exit the program, close the command prompt or press ```CTRL + C```
+If you want to exit the program, close the command prompt or press ```CTRL + c``` twice
 
 
 When you first run the program, a list of available items will be displayed and you will be prompted with questions regarding a purchase.
@@ -26,7 +26,7 @@ After selecting a valid item and quantity, you will be given the total cost.
 ![Successful Purchase](images/screenshot_2.png)
 
 An updated table of items will be displayed again if you want to continue with another purchase.
-The previous purchase inlcuded item 1 with a quantity of 2. Therefore the update table shows a change
+The previous purchase included item 1 with a quantity of 2. Therefore the update table shows a change
 in stock quantity from 10 to 8.
 
 ![Updated Table](images/screenshot_3.png)
