@@ -9,6 +9,14 @@ $ npm install mysql --save
 $ npm install inquirer --save
 ```
 
+To begin the program run this command,
+```
+$ node BamazonCustomer.js
+```
+
+If you want to exit the program, close the command prompt or press ```CTRL + C```
+
+
 When you first run the program, a list of available items will be displayed and you will be prompted with questions regarding a purchase.
 
 ![First Run](images/screenshot_1.png)
